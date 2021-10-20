@@ -1,3 +1,3 @@
 # Calendário
 
-### Cálculo de diferença entre datas 
+### Cálculo da distância entre os meses (passado e presente)
